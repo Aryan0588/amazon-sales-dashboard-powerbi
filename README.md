@@ -51,4 +51,4 @@ Source data (`ECOMM_DATA.xlsx`) contains three sheets:
 
 ## 👤 Author
 
-**Aryan** — [LinkedIn](#) · [GitHub](#)
+**Aryan** — [LinkedIn](https://www.linkedin.com/in/aryan-saini-97b144218?) · [GitHub](https://github.com/Aryan0588)
